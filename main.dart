@@ -6,3 +6,10 @@
 void main() {
 
 }
+
+class StringCalculator {
+
+  int add(String numbers) {
+
+  }
+}
